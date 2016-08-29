@@ -1,16 +1,16 @@
-typography_spectrum: 0.2935262306127697
+layout_spectrum: 0.4638012736104429
+typography_spectrum: 0.25711572589352727
 color:
-  brandStrength: 0.18482172046788037
-  lightness: 0.28534886077977717
-  saturation: 0.7194326762109995
-  rhythmicContrast: 0.24610195239074528
+  brandStrength: 0.8316468966659158
+  lightness: 0.44115881714969873
+  saturation: 0.10650715278461576
+  rhythmicContrast: 0.43081829394213855
   brandColors:
-    - '#070311'
-    - '#FF0000'
-    - '#FFB900'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-    - '#00CAFE'
-layout_spectrum: 0.19657003902830184
+    - '#FF9800'
 name: selfish intelligence
 title: 'Hello, World'
 description: 'A.I. - For me, by me'
