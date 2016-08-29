@@ -1,4 +1,3 @@
-layout_spectrum: 0.4638012736104429
 typography_spectrum: 0.25711572589352727
 color:
   brandStrength: 0.8316468966659158
@@ -11,6 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.4638012736104429
 name: selfish intelligence
-title: 'Hello, World'
+title: 'A.I. - For me, by me'
 description: 'A.I. - For me, by me'
