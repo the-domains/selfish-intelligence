@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T06:19:59.709Z'
+datePublished: '2016-08-28T06:25:12.970Z'
 sourcePath: _posts/2016-04-16-cuba-on-the-edge-of-change.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,8 @@ keywords:
   - revolutionary
 related: []
 author: []
-dateModified: '2016-08-28T06:19:58.881Z'
+via: {}
+dateModified: '2016-08-28T06:25:11.855Z'
 title: Cuba on the Edge of Change
 app_links: []
 publisher:
@@ -34,10 +35,9 @@ description: >-
   faded grandeur.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p><img src="https://static01.nyt.com/images/2016/03/15/world/americas/cuba-template-slide-CH7H/cuba-template-slide-CH7H-facebookJumbo.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fadd80fef63f3704329bd8f3effa0b99/croprotate.jpg?cropheight=548&amp;cropwidth=1050&amp;degrees=0&amp;input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F196de034f71ac2612a2898c9ace08482d0e1afa6.jpg&amp;x=0&amp;y=0" /><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p></article>
