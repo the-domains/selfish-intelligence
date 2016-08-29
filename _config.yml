@@ -12,9 +12,5 @@ color:
     - '#FF9800'
 layout_spectrum: 0.4638012736104429
 name: selfish intelligence
-navigation:
-  - name: city lights
-    id: 9df7fbd8-2808-420c-95ab-9ea33df6a5da
-    type: content
 title: 'A.I. - For me, by me'
 description: ''
