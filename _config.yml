@@ -1,4 +1,3 @@
-layout_spectrum: 0.19657003902830184
 typography_spectrum: 0.2935262306127697
 color:
   brandStrength: 0.18482172046788037
@@ -11,4 +10,6 @@ color:
     - '#FFB900'
     - '#FFFFFF'
     - '#00CAFE'
+layout_spectrum: 0.19657003902830184
 name: selfish intelligence
+description: 'A.I. - For me, by me'
