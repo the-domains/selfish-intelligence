@@ -1,4 +1,5 @@
-typography_spectrum: 0.25711572589352727
+layout_spectrum: 0.3804567074403167
+typography_spectrum: 0.5743016176857054
 color:
   brandStrength: 0.8316468966659158
   lightness: 0.44115881714969873
@@ -10,7 +11,6 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-layout_spectrum: 0.4638012736104429
 name: selfish intelligence
 navigation:
   - name: city lights
