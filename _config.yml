@@ -1,20 +1,14 @@
-layout_spectrum: 0.08885946567170322
-typography_spectrum: 0.19537713704630733
+layout_spectrum: 0.19657003902830184
+typography_spectrum: 0.2935262306127697
 color:
-  brandStrength: 0.8316468966659158
-  lightness: 0.44115881714969873
-  saturation: 0.10650715278461576
-  rhythmicContrast: 0.43081829394213855
+  brandStrength: 0.18482172046788037
+  lightness: 0.28534886077977717
+  saturation: 0.7194326762109995
+  rhythmicContrast: 0.24610195239074528
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: selfish intelligence
-navigation:
-  - name: city lights
-    id: 9df7fbd8-2808-420c-95ab-9ea33df6a5da
-    type: content
-title: 'A.I. - For me, by me'
-description: ''
